@@ -26,7 +26,7 @@ It simulates real ATM functionalities like account creation, deposit, withdrawal
 
 ---
 ## 📸 Screenshots
-
+<img width="1205" height="1020" alt="image" src="https://github.com/user-attachments/assets/44a8cfaa-7f2d-499e-8e42-3ab80504fe97" />
 ### 🔐 Login Screen
 
 <img width="995" height="597" alt="image" src="https://github.com/user-attachments/assets/c606d861-2ca9-4839-bcda-4f9d12155d54" />
